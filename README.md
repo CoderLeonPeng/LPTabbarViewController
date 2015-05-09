@@ -17,12 +17,12 @@ mainVc.controllers = @[oneVc,twoVc,threeVc];
 //    mainVc.animationType = AnimationTypeNone;
 //    mainVc.animationType = AnimationTypeCube;
 //    mainVc.animationType = AnimationTypeFade;
-mainVc.animationType = AnimationTypeCustom;
-mainVc.animationType = AnimationTypeMoveIn;
-mainVc.animationType = AnimationTypeReveal;
-mainVc.animationType = AnimationTypePageCurl;
+//    mainVc.animationType = AnimationTypeCustom;
+//    mainVc.animationType = AnimationTypeMoveIn;
+//    mainVc.animationType = AnimationTypeReveal;
+//    mainVc.animationType = AnimationTypePageCurl;
 //
-mainVc.animationType = AnimationTypePageUnCurl;
+//    mainVc.animationType = AnimationTypePageUnCurl;
 mainVc.animationType = AnimationTypeSuckEffect;
 //
 //    mainVc.animationType = AnimationTypeRippleEffect;
